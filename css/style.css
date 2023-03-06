@@ -70,6 +70,13 @@ h6,
     text-align: center;
 }
 
+.containerfl {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
 .back-to-top {
     position: fixed;
     display: none;
